@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Jeong Hyeonjin
 
-# <span style="background: linear-gradient(to right, #ff9a44, #fc6076); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Haneul's Record</span>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Backend%20Developer&fontSize=70&gradient=ff9a44,fc6076" />
 </p>
