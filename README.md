@@ -1,16 +1,16 @@
 # 👋 Hello, I'm Jeong Hyeonjin
 
+# <span style="background: linear-gradient(to right, #ff9a44, #fc6076); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Haneul's Record</span>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Backend%20Developer&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Backend%20Developer&fontSize=70&gradient=ff9a44,fc6076" />
 </p>
 
 ### 🛠 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
 ---
@@ -34,4 +34,6 @@
 
 ### 📬 Contact Me
 
-
+<p align="left">
+  <a href="mailto:hj0543@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
