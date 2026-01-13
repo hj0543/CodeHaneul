@@ -20,7 +20,6 @@
 - 🎓 **Education**: SSAFY(Samsung Software Academy For Youth) 교육생 (Gumi Campus)
 - 🎯 **Focus**: 확장성 있는 백엔드 시스템 설계와 효율적인 데이터 처리에 관심이 많습니다.
 - 💡 **Interests**: 에듀테크(Edutech) 솔루션 및 데이터 분석 기반의 서비스 고도화
-- 🎮 **Hobbies**: Lost Ark, Project Zomboid와 같은 전략적/생존 게임을 즐깁니다.
 
 ---
 
