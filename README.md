@@ -1,30 +1,41 @@
-# Jeonghyeonjin
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Morgan's%20GitHub&fontSize=42" />
+# 👋 Hello, I'm Jeong Hyeonjin
 
-<div align=center>
-<h3>반갑습니다! 김모건입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
-</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Backend%20Developer&fontSize=70" />
+</p>
 
-📚 Languages / Library / Tools 📚
-  
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
-![js](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![js](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
-![js](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+### 🛠 Tech Stack
 
-<a href='https://react.dev/'>![js](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)</a>
-<a href='https://axios-http.com/kr/docs/intro'>![js](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white)</a>
-<a href='https://recoiljs.org/ko/'>![js](https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white)</a>
-<a href='https://styled-components.com/'>![js](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)</a>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
 
+---
 
-<a href='https://grafana.com/'>![js](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)</a>
-![js](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+### 🧑‍💻 About Me
 
-# 사용하는 언어 비율을 나태내는 위젯
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHubJeonghyeonjin)](https://github.com/anuraghazra/github-readme-stats)
-# GitHub 평판을 나타내는 위젯
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitHubJeonghyeonjin)](https://github.com/anuraghazra/github-readme-stats)
+- 🎓 **Education**: SSAFY(Samsung Software Academy For Youth) 교육생 (Gumi Campus)
+- 🎯 **Focus**: 확장성 있는 백엔드 시스템 설계와 효율적인 데이터 처리에 관심이 많습니다.
+- 💡 **Interests**: 에듀테크(Edutech) 솔루션 및 데이터 분석 기반의 서비스 고도화
+- 🎮 **Hobbies**: Lost Ark, Project Zomboid와 같은 전략적/생존 게임을 즐깁니다.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redcontroller&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=본인의계정아이디&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인의계정아이디&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📬 Contact Me
+
+<p align="left">
+  <a href="mailto:본인의이메일@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://본인의블로그주소.com"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+</p>
