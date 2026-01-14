@@ -1,7 +1,7 @@
 # ☁️ Haneul's record
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Backend%20Developer&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Haneul%20Code&fontSize=60" />
 </div>
 
 ## 🎓 About Me
