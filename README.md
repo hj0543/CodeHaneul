@@ -1,7 +1,7 @@
 # ☁️ Haneul's record
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Haneul%20Code&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Code%20Haneul&fontSize=70" />
 </div>
 
 ## 🎓 About Me
