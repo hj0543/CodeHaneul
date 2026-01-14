@@ -2,7 +2,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 18 * * *" # 매일 새벽에 자동 실행
+    - cron: "0 18 * * *" # 매일 새벽 자동 갱신
   workflow_dispatch:
 
 jobs:
