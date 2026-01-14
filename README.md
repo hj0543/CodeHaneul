@@ -3,7 +3,12 @@
 # <span style="background: linear-gradient(to right, #ff9a44, #fc6076); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Haneul's Record</span>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Backend%20Developer&fontSize=70&gradient=ff9a44,fc6076" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=200&section=header&text=Backend%20Developer&fontSize=70&gradient=ff9a44,fc6076" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&pause=1000&width=435&lines=First%2C+solve+the+problem.+Then%2C+write+the+code." alt="Typing SVG" />
+  </a>
 </p>
 
 ### 🏆 GitHub Trophies
@@ -16,9 +21,9 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 **Education**: SSAFY(Samsung Software Academy For Youth) 교육생 (Gumi Campus)
-- 🎯 **Focus**: 확장성 있는 백엔드 시스템 설계와 효율적인 데이터 처리에 관심이 많습니다.
-- 💡 **Interests**: 에듀테크(Edutech) 솔루션 및 데이터 분석 기반의 서비스 고도화
+- 🎓 **Education**: SSAFY 15th (Gumi Campus)
+- 🎯 **Focus**: 
+- 💡 **Interests**: Edutech, Fintech
 
 ---
 
@@ -31,10 +36,15 @@
 
 ---
 
-### 📊 Contribution Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=본인계정ID&show_icons=true&theme=radical" />
+### 📋 Solved.ac Profile
+<p align="left">
+  [![Solved.ac Profile](https://mazassumnida.vercel.app/api/v2/generate_badge?boj=사용자아이디)](https://solved.ac/사용자아이디)
 </p>
+
+---
+
+### 🟢 My 3D Contributions
+![3D Grass](./profile-3d-contrib/profile-green-animate.svg)
 
 ---
 
