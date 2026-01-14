@@ -17,7 +17,7 @@
 </a>
 
 ### 🟢 My 3D Contributions
-![3D Grass Wave](./profile-3d-contrib/profile-wave.svg)
+![3D Grass](./profile-3d-contrib/profile-green-animate.svg)
 
 ---
 
