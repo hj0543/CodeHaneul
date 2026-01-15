@@ -32,8 +32,7 @@
 
 ---
 
-## 📑 Development Philosophy
-멘토링을 통해 정립한 저의 개발 원칙입니다. 모든 프로젝트에 아래 과정을 준수합니다.
+## 📑 Ongoing Project
 
 1. 
 2. 
@@ -42,6 +41,13 @@
 
 ---
 
+## 📑 Completed Project
+
+1. 
+2. 
+3. 
+
+---
 
 ### 🏆 Solved.ac Profile
 <img src="http://mazandi.herokuapp.com/api?handle=hj0543&theme=dark" />
