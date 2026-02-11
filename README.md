@@ -11,11 +11,24 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E91F7&width=435&lines=Simple+is+better+than+complex;Excuses+just+make+me+fall+behind.;Prove+Yourself!" alt="Typing SVG" />     
 </a>
 
-* **Career**
-  * 🎖️ **ROK Army (2019.03 - 2021.06)** : 육군 중위 전역 - 엑셀기반 일일 비사격훈련 프로그램 개발
-  * 🏫 **Math Academy (2021.07 - 2023.05)** : 수학학원 강사
-  * 🏫 **Math Academy (2023.10 - 2025.12)** : 수학학원 팀장 - 학원 관리 시스템 기획, 개발, 운영(Google Sheets + Apps script)
-  * 🏫 **SSAFY 15th (2026.01 - ing)** : Gumi Campus, Python track
+## Experience
+---
+Republic of Korea Army | First Lieutenant
+Mar 2019 – Jun 2021
+Key Achievement: Developed an Excel-based daily dry-fire training program to digitize and streamline military drill management.
+---
+Math Academy | Team Leader / Instructor
+Jul 2021 – Dec 2025
+Team Leader (Oct 2023 – Dec 2025): Managed academy operations and led the teaching team.
+Instructor (Jul 2021 – May 2023): Delivered mathematics curriculum to students, focusing on core concepts and exam preparation.
+Key Achievement: Planned, developed, and operated a comprehensive Academy Management System using Google Sheets and Google Apps Script, significantly improving administrative efficiency.
+---
+Education & Training
+SSAFY (Samsung Software Academy for Youth) | 15th Cohort
+Jan 2026 – Present
+Location: Gumi Campus
+Track: Python Track
+Intensive software engineering fellowship focused on full-stack development and algorithm problem-solving using Python.
 
 ---
 
