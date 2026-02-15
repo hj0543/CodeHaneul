@@ -5,7 +5,7 @@
 </div>
 
 ## 🎓 Introduction
-<img src="https://img.shields.io/badge/Coding_Journey-Since_Dec_1,_2025-blue?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Coding_Journey-Since_Jan_18,_2026-blue?style=for-the-badge&logo=github&logoColor=white">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E91F7&width=435&lines=Simple+is+better+than+complex;Excuses+just+make+me+fall+behind.;Prove+Yourself!" alt="Typing SVG" />     
